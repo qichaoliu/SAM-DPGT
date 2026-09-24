@@ -126,17 +126,6 @@ Precomputed per-seed results are provided in `results/` (numbers only, no figure
 - `results/results.json` — per-seed OA/AA/Kappa (and per-class accuracies where available) of the 10-seed runs reported in the paper (5 training + 5 validation labels per class). The mean ± std values correspond to the paper's main tables.
 - `results/results_rerun_validation.json` — an independent rerun of the full model using this released code (seeds 0–9, same protocol), verifying that the released pipeline reproduces the paper results within run-to-run variation.
 
-## Citation
-
-```bibtex
-@article{liu2024samdpgt,
-  title={SAM-DPGT: SAM-Guided Dual-Prior Graph Transformer for Few-Shot Hyperspectral Image Classification},
-  author={Liu, Qichao and Xiao, Liang and Huang, Nan and Tang, Jinhui},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024}
-}
-```
-
 ## License
 
 This project is released under the MIT License.
