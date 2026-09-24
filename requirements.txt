@@ -1,0 +1,8 @@
+torch>=1.12
+numpy
+scipy
+scikit-learn
+scikit-image
+h5py
+matplotlib
+spectral
