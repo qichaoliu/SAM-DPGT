@@ -1,4 +1,4 @@
-# DualPriorGT: Dual-Prior Graph Transformer for Few-Shot HSI Classification
+﻿# DualPriorGT: Dual-Prior Graph Transformer for Few-Shot HSI Classification
 
 Official implementation of **SAM-DPGT: SAM-Guided Dual-Prior Graph Transformer for Few-Shot Hyperspectral Image Classification**.
 
@@ -116,7 +116,7 @@ Edit the parameters at the top of `run_final.py`:
 ├── run_final.py              # Main training script
 ├── requirements.txt          # Dependencies
 ├── results/                  # Output results (auto-created)
-└── data/                     # Dataset directory (set DATA_ROOT)
+└── data/TeaFarm/             # TeaFarm dataset (included); place IP/PU/SA benchmarks here too (set DATA_ROOT)
 ```
 
 ## Results
