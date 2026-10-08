@@ -1,4 +1,4 @@
-﻿# DualPriorGT: Dual-Prior Graph Transformer for Few-Shot HSI Classification
+﻿# SAM-Guided Dual-Prior Graph Transformer for Few-Shot Hyperspectral Image Classification
 
 Official implementation of **SAM-DPGT: SAM-Guided Dual-Prior Graph Transformer for Few-Shot Hyperspectral Image Classification**.
 
